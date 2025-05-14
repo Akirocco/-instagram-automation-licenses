@@ -1,0 +1,12 @@
+{
+  "licencias": [
+    {
+      "usuario_extension": "cliente1",
+      "cuentas_instagram": ["cuenta1", "cuenta2", "cuenta3", "cuenta4", "cuenta5"],
+      "expira": "2025-06-13",
+      "licencia_activa": true
+    }
+  ],
+  "version": "1.0.0",
+  "mensaje_renovacion": "Tu licencia ha expirado o la cuenta de Instagram no está autorizada. Contacta al +XXXXX para renovar por WhatsApp."
+}
