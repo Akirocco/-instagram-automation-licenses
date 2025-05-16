@@ -2,9 +2,9 @@
   "licencias": [
     {
       "usuario_extension": "cliente1",
-      "cuentas_instagram": ["cuenta2", "cuenta3", "cuenta4", "cuenta5"],
+      "cuentas_instagram": ["lola.pachecoo", "kaizen.700", "cuenta2", "cuenta3", "cuenta4", "cuenta5"],
       "expira": "2025-06-13",
-      "licencia_activa": false
+      "licencia_activa": true
     },
     {
       "usuario_extension": "yael",
