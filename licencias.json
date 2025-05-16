@@ -4,6 +4,12 @@
       "usuario_extension": "cliente1",
       "cuentas_instagram": ["lola.pachecoo", "kaizen.700", "cuenta2", "cuenta3", "cuenta4", "cuenta5"],
       "expira": "2025-06-13",
+      "licencia_activa": false
+    },
+    {
+      "usuario_extension": "yael",
+      "cuentas_instagram": ["cande.montenegro35", "val.p98", "mariia.novi.09", "vane_esp21"],
+      "expira": "2025-06-16",
       "licencia_activa": true
     }
   ],
